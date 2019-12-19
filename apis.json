@@ -1,0 +1,60 @@
+{
+    "name": "RegOnline by Lanyon",
+    "description": "RegOnline offers quick, easy, and affordable event registration & event management software. Build, promote, and measure your events, simply and securely.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1632-regonline-by-lanyon.jpg",
+    "tags": [
+        "event management",
+        "have api",
+        "javascript",
+        "promotions",
+        "registrations",
+        "tracking"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/regonline-by-lanyon\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "RegOnline by Lanyon",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1632-regonline-by-lanyon.jpg",
+            "humanURL": "http:\/\/regonline.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/regonline-by-lanyon-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/www.regonline.com\/api\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/RegonlineDeveloperResources"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/regonline"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.regonline.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/RegOnline"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/regonline.com"
+        }
+    ]
+}
